@@ -1,0 +1,5 @@
+﻿  test.cpp
+f:\bit\tool\cppjieba\include\cppjieba\limonp/StringUtil.hpp(83): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+  已完成代码的生成
+  TextSimilarity.vcxproj -> F:\BIT\项目\文本相似度\TextSimilarity\Release\TextSimilarity.exe
